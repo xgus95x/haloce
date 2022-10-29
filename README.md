@@ -22,7 +22,7 @@ Instala Docker en el vps linux
 
 ## Instalar Servidor SAPP Halo CE
 
-    git clone https://github.com/Black-09/haloce
+    git clone https://github.com/xgus95x/haloce
 
 ## Ejecutar tu servidor Sapp
 
@@ -32,7 +32,7 @@ En la consola de tu vps debes dirigirte al directorio haloce con el siguiente co
     
 Ya dentro del directorio debemos crear nuestro contenedor con los archivos de nuestros SAPP Halo CE con el siguiente comando :
 
-    docker build . 
+  sudo docker build . 
     
 Al terminar de crear nuestro contenedor nos saldra algo como esto :   
 
