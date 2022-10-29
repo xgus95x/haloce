@@ -1,0 +1,7 @@
+Damnation:CTFSniper
+Bloodgulch:CTFSniper
+Ratrace:CTFSniper
+Damnation:CTFPro
+Bloodgulch:CTFPro
+Sidewinder:CTFPro
+timberland:CTFPro

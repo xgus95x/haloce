@@ -1,0 +1,38 @@
+v1
+lua 1
+lua_load hit_reg_fix
+lua_load anti-lagspawn
+lua_load anti-speedhack
+lua_load full_reset
+lua_load map_download
+lua_load Name_Replacer
+lua_load pm
+lua_load remove_empty_weapons
+lua_load spawn_w_pistol
+lua_load spoof
+lua_load spoof_scrimmode
+lua_load name_ban
+setcmd afk -1
+antihalofp 1
+afk_kick 100
+antispam 2
+antiwarp 1
+anticamp 15 5
+sapp_console 1
+max_votes 5
+mapvote 1
+map_skip 41
+msg_prefix "lol ."
+aimbot_ban 10000 1
+no_lead 1
+adminban 2
+custom_sleep 1
+packet_limit 256
+antiglitch 1
+mtv 0
+block_tc 1
+ping_kick 500
+disable_sj 0
+scrim_mode 0
+spam
+auto_update 0
